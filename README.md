@@ -3,6 +3,9 @@
 ## 📊 Project Overview
 This project analyzes sales performance of a retail superstore dataset to identify key insights related to sales, profit, and regional performance.
 
+## Objective
+To analyze sales performance and identify key insights to improve business profitability and decison-making
+
 ## 🛠️ Tools Used
 - Python (Pandas, NumPy) → Data Cleaning
 - Power BI → Dashboard & Visualization
